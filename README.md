@@ -1,5 +1,9 @@
 # to-do-app
 
+## Demonstration
+
+![Alt Text](https://media.giphy.com/media/4V4C15WLizkDdY7heU/giphy.gif)
+
 ## Project setup
 ```
 npm install
@@ -22,3 +26,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
